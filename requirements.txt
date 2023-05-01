@@ -1,0 +1,12 @@
+xmltodict
+pandas
+networkx
+matplotlib
+numpy
+xlrd
+openpyxl
+requests
+plotly
+dash
+colour
+scipy
